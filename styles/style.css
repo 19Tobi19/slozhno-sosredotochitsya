@@ -62,6 +62,7 @@
   block-size: 100vh;
   min-block-size: 668px;
   margin-bottom: 60px;
+  position: relative;
 }
 
 .rec {
