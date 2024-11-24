@@ -7,7 +7,8 @@
   --main-font-size: 18px;
   --main-line-height: 23.4px;
   --nav-color: #ff0070;
-  --nav-color-opacity: rgba(50, 49, 45, 0.4);
+  --nav-color-opacity: rgba(255, 0, 112, 0.4);
+  --section-title-color: #ff0070;
   --header-logo-color: #db00ff;
   --footer-logo-color: #db00ff;
   --main-bg-color: #000028;
